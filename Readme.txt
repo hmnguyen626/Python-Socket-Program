@@ -1,4 +1,4 @@
-Hieu Nguyen (section 1) - hmnguyen@csu.fullerton.edu
+Hieu Nguyen - hmnguyen626@gmail.com
 
 The program is written in Python.
 The program includes a server.py, a client.py, a server folder, and a client folder
